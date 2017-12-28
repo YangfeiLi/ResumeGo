@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/b6a3c69ec77dd0928ac01fe19f7d6d8a364f088d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_befcefaafda77986224cefca68243e7eebac76b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/8fb21861d7f89b912030446f6a9826b481c56c00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27265299321fc174fbd04182ac30ff48878086f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_c3dd79fe0e5a9f08fb578f5931478a8e83bd8adf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/dcf2de10758903beb2aff86f6c22c4f00115fb19/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_75d9c592c01d1961e6ad80e3a93429c0b2ee7ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/4c5c476fac6b98dc56b5218533c47885b6f809b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2535e5c12327aee6c1653221086a2ecfb11d5b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/aebe71ae38cfd5dcd034257f159b7fb70122d599/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97ec94ab65177a3e7b047336f0a299f9924ab590/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b8b79a776b8afdf4d0c3b2e1824ed8bf7e4261f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/610b4d879e52e7a21654b26ebc8346c735c772ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6985c26d8558868552f19b54785e63dd5b6c4caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe731b10b6d2fdeca35fd7aa9225796062633ed6">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c5c27b705c828a946bfcf1a4d4b22bb25107f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_9dbd1d76762407a4c6a7e33c14d980d82bb1fa93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/.android/build-cache/dcf2de10758903beb2aff86f6c22c4f00115fb19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Apple/Desktop/刷题/Nine Chapters/Android/MiniLinkedin(2,3)/AwesomeResume_2/AwesomeResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98cb641a9044bb1652afaf2093c23798e9a73859/classes.dex" />
+    </item>
+
+</items>
